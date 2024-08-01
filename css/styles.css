@@ -1,0 +1,7 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+input:focus {
+  border-color: #3b82f6;
+}
